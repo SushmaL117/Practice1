@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="name" duration-ms="37385" started-at="2021-09-17T11:41:23 IST" finished-at="2021-09-17T11:42:00 IST">
+    <groups>
+    </groups>
+    <test name="SauceLabs" duration-ms="37385" started-at="2021-09-17T11:41:23 IST" finished-at="2021-09-17T11:42:00 IST">
+      <class name="com.sauce.SauceDemo.SauceLabs">
+        <test-method status="PASS" signature="sauce()[pri:0, instance:com.sauce.SauceDemo.SauceLabs@3b088d51]" name="sauce" is-config="true" duration-ms="25" started-at="2021-09-17T11:41:23 IST" finished-at="2021-09-17T11:41:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sauce -->
+        <test-method status="PASS" signature="ProductDetails_Validation(java.lang.String)[pri:1, instance:com.sauce.SauceDemo.SauceLabs@3b088d51]" name="ProductDetails_Validation" duration-ms="9888" started-at="2021-09-17T11:41:23 IST" finished-at="2021-09-17T11:41:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sauce Labs Backpack]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductDetails_Validation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sauce.SauceDemo.SauceLabs@3b088d51]" name="tearDown" is-config="true" duration-ms="877" started-at="2021-09-17T11:41:33 IST" finished-at="2021-09-17T11:41:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Product_Availability(java.lang.String)[pri:2, instance:com.sauce.SauceDemo.SauceLabs@3b088d51]" name="Product_Availability" duration-ms="8201" started-at="2021-09-17T11:41:34 IST" finished-at="2021-09-17T11:41:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sauce Labs Bolt T-Shirt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_Availability -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sauce.SauceDemo.SauceLabs@3b088d51]" name="tearDown" is-config="true" duration-ms="804" started-at="2021-09-17T11:41:42 IST" finished-at="2021-09-17T11:41:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ProductPrice_Validation()[pri:3, instance:com.sauce.SauceDemo.SauceLabs@3b088d51]" name="ProductPrice_Validation" duration-ms="8012" started-at="2021-09-17T11:41:43 IST" finished-at="2021-09-17T11:41:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductPrice_Validation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sauce.SauceDemo.SauceLabs@3b088d51]" name="tearDown" is-config="true" duration-ms="800" started-at="2021-09-17T11:41:52 IST" finished-at="2021-09-17T11:41:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ErrorMessage_Validation()[pri:4, instance:com.sauce.SauceDemo.SauceLabs@3b088d51]" name="ErrorMessage_Validation" duration-ms="6349" started-at="2021-09-17T11:41:52 IST" finished-at="2021-09-17T11:41:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ErrorMessage_Validation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sauce.SauceDemo.SauceLabs@3b088d51]" name="tearDown" is-config="true" duration-ms="1004" started-at="2021-09-17T11:41:59 IST" finished-at="2021-09-17T11:42:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauce.SauceDemo.SauceLabs -->
+    </test> <!-- SauceLabs -->
+  </suite> <!-- name -->
+</testng-results>

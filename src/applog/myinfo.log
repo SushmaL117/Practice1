@@ -1,0 +1,31 @@
+2021-09-17 11:41:31,620 - rootLogger - INFO - Clicked on Login Button
+2021-09-17 11:41:32,025 - rootLogger - INFO - Clicked on Add to cart button
+2021-09-17 11:41:32,128 - rootLogger - INFO - Clicked on Shopping Cart icon
+2021-09-17 11:41:32,223 - rootLogger - INFO - Clicked on Checkout
+2021-09-17 11:41:32,876 - rootLogger - INFO - Clicked on Continue button
+2021-09-17 11:41:32,976 - rootLogger - INFO - Product name 'Sauce Labs Backpack' in Products home page is same as Product name 'Sauce Labs Backpack' in Checkout overview page
+2021-09-17 11:41:32,977 - rootLogger - INFO - Product desc 'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.' in Products home page is same as Product desc 'carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.' in Checkout overview page
+2021-09-17 11:41:32,977 - rootLogger - INFO - Product price '$29.99' in Products home page is same as Product price '$29.99' in Checkout overview page
+2021-09-17 11:41:33,122 - rootLogger - INFO - Clicked on Cancel Button
+2021-09-17 11:41:33,294 - rootLogger - INFO - Clicked on Remove button
+2021-09-17 11:41:42,307 - rootLogger - INFO - Clicked on Login Button
+2021-09-17 11:41:42,414 - rootLogger - INFO - Number of Products: 6
+2021-09-17 11:41:42,663 - rootLogger - INFO - Products list: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket, Sauce Labs Onesie, Test.allTheThings() T-Shirt (Red)]
+2021-09-17 11:41:42,663 - rootLogger - INFO - 'Sauce Labs Bolt T-Shirt' is available in product list
+2021-09-17 11:41:49,573 - rootLogger - INFO - Clicked on Login Button
+2021-09-17 11:41:49,665 - rootLogger - INFO - Number of Product price: 6
+2021-09-17 11:41:50,146 - rootLogger - INFO - Product prices: [29.99, 9.99, 15.99, 49.99, 7.99, 15.99]
+2021-09-17 11:41:50,308 - rootLogger - INFO - Product price in product indiviual page is properly displayed as $29.99 for a product 'Sauce Labs Backpack'
+2021-09-17 11:41:50,408 - rootLogger - INFO - Clicked on Back to Products page button
+2021-09-17 11:41:50,556 - rootLogger - INFO - Product price in product indiviual page is properly displayed as $9.99 for a product 'Sauce Labs Bike Light'
+2021-09-17 11:41:50,678 - rootLogger - INFO - Clicked on Back to Products page button
+2021-09-17 11:41:50,842 - rootLogger - INFO - Product price in product indiviual page is properly displayed as $15.99 for a product 'Sauce Labs Bolt T-Shirt'
+2021-09-17 11:41:50,932 - rootLogger - INFO - Clicked on Back to Products page button
+2021-09-17 11:41:51,084 - rootLogger - INFO - Product price in product indiviual page is properly displayed as $49.99 for a product 'Sauce Labs Fleece Jacket'
+2021-09-17 11:41:51,191 - rootLogger - INFO - Clicked on Back to Products page button
+2021-09-17 11:41:51,340 - rootLogger - INFO - Product price in product indiviual page is properly displayed as $7.99 for a product 'Sauce Labs Onesie'
+2021-09-17 11:41:51,444 - rootLogger - INFO - Clicked on Back to Products page button
+2021-09-17 11:41:51,607 - rootLogger - INFO - Product price in product indiviual page is properly displayed as $15.99 for a product 'Test.allTheThings() T-Shirt (Red)'
+2021-09-17 11:41:51,694 - rootLogger - INFO - Clicked on Back to Products page button
+2021-09-17 11:41:59,151 - rootLogger - INFO - Clicked on Login Button
+2021-09-17 11:41:59,216 - rootLogger - INFO - Error message is displayed
