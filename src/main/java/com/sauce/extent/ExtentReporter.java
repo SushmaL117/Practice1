@@ -36,7 +36,7 @@ public class ExtentReporter implements ITestListener {
 		return name;
 	}
 
-	@Override
+	
 	public void onStart(ITestContext context) {
 		try {
 			platform = context.getSuite().getName();
@@ -52,31 +52,31 @@ public class ExtentReporter implements ITestListener {
 		}
 	}
 
-	@Override
+	
 	public void onTestStart(ITestResult result) {
 		test = extent.startTest(result.getMethod().getMethodName());
 		test.log(LogStatus.INFO, result.getMethod().getMethodName());
 	}
 
-	@Override
+	
 	public void onTestSuccess(ITestResult result) {
 		test.log(LogStatus.PASS, result.getMethod().getMethodName());
 		screencapture(result.getMethod().getMethodName());
 	}
 
-	@Override
+	
 	public void onTestFailure(ITestResult result) {
 		test.log(LogStatus.FAIL, result.getMethod().getMethodName());
 		screencapture(result.getMethod().getMethodName());
 	}
 
-	@Override
+	
 	public void onTestSkipped(ITestResult result) {
 		test.log(LogStatus.SKIP, result.getMethod().getMethodName());
 		screencapture(result.getMethod().getMethodName());
 	}
 
-	@Override
+	
 	public void onFinish(ITestContext context) {
 		extent.endTest(test);
 		extent.flush();
